@@ -1,5 +1,5 @@
 // Lê a idade em dias
-const idadeDias = parseInt(prompt("Digite a idade em dias:"));
+const idadeDias = parseInt(prompt("Digite a idade em dias: "));
 
 // Calcula a idade em anos, meses e dias
 const idadeAnos = Math.floor(idadeDias / 365);
